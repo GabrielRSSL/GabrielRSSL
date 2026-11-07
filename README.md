@@ -1,9 +1,5 @@
 # Olá, eu sou o Gabriel! 👋
 
-Sou estudante de Sistemas de Informação, com interesse em desenvolvimento de software, análise de dados e no funcionamento dos sistemas computacionais.
-
-Neste perfil, reúno projetos acadêmicos, estudos e trabalhos desenvolvidos em equipe. Tenho explorado desde aplicações web e mobile até estruturas de dados e programação de baixo nível.
-
 ## Sobre mim
 
 - 🎓 Graduando em Sistemas de Informação no CEFET-MG - Campus Varginha (6/8)
